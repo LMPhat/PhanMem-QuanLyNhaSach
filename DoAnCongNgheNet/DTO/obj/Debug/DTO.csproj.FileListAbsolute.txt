@@ -1,0 +1,15 @@
+E:\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.pdb
+E:\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.dll
+E:\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.pdb
+E:\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.dll
+E:\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\KimTuyen\Desktop\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.dll
+C:\Users\KimTuyen\Desktop\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.pdb
+C:\Users\KimTuyen\Desktop\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\KimTuyen\Desktop\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.dll
+C:\Users\KimTuyen\Desktop\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.pdb
+D:\HocTap_Ky7\KDPM\DoAn\Nhom6\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.dll
+D:\HocTap_Ky7\KDPM\DoAn\Nhom6\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.pdb
+D:\HocTap_Ky7\KDPM\DoAn\Nhom6\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\HocTap_Ky7\KDPM\DoAn\Nhom6\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.dll
+D:\HocTap_Ky7\KDPM\DoAn\Nhom6\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.pdb
